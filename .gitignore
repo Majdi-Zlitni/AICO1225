@@ -1,1 +1,60 @@
-/Prep
+Prep/
+# =====================
+# Build results
+# =====================
+bin/
+obj/
+
+# =====================
+# Visual Studio
+# =====================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# =====================
+# Rider / JetBrains
+# =====================
+.idea/
+*.sln.iml
+
+# =====================
+# Logs & temp
+# =====================
+*.log
+*.tmp
+
+# =====================
+# Test results & coverage
+# =====================
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.trx
+
+# =====================
+# NuGet
+# =====================
+packages/
+.nuget/
+
+# =====================
+# Environment & secrets
+# =====================
+appsettings.Development.json
+appsettings.Local.json
+*.env
+
+# =====================
+# OS files
+# =====================
+Thumbs.db
+.DS_Store
+
+# =====================
+# Publish output
+# =====================
+publish/
