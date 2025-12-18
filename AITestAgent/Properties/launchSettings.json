@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AiTestAgent": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
